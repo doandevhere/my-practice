@@ -7,11 +7,6 @@
     "type": "git",
     "url": "https://github.com/my-practice/my-practice"
   },
-  "workspaces": [
-    "apps/*",
-    "packages/*",
-    "plugins/*"
-  ],
   "scripts": {
     "build": "turbo run build",
     "build-storybook": "turbo run build-storybook",
